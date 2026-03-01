@@ -157,6 +157,54 @@ Wolf
 - 200 000 sztuk złota
 - 500 000 doświadczenia
 
+## Podziemne polowanie - Pająki: _Porozmawiaj z Wolf_
+**Opis:**
+_Już nic mnie nie zatrzyma... Wolf będzie zadowolony._
+
+**Zleceniodawca:**
+Wolf
+
+**Cel misji:**
+- Porozmawiaj z Wolf
+
+**Nagroda:**
+- 3 000 000 sztuk złota
+- 2 000 000 doświadczenia
+- 2 Legendarna Moneta
+- 5 Moc Pradawnych
+- Antyczny Klucz
+
+## Podziemne trofea - Pajęcze Sieci: _Sieci dla Terena_
+**Opis:**
+_Teren potrzebuje pajęczych sieci, trochę ich natłukłem, także bez problemu._
+
+**Zleceniodawca:**
+Teren
+
+**Cel misji:**
+- Dostarcz Pajęcza Sieć: 40
+
+**Nagroda:**
+- 3 000 000 sztuk złota
+- 2 000 000 doświadczenia
+- 1 Pradawny Klejnot
+- Po ukończeniu trofeów otrzymasz stały bonus!
+
+## Podziemne polowanie - Nieumarli: _Zgładź Pradawnych_
+**Opis:**
+_Wychodzi na to, że to dopiero początek mojej kariery tutaj, cóż byłem na to gotowy._
+
+**Zleceniodawca:**
+Wolf
+
+**Cel misji:**
+- Zabij Pradawny Berserker: 800
+- Zabij Pradawny Mściciel: 800
+
+**Nagroda:**
+- 200 000 sztuk złota
+- 500 000 doświadczenia
+
 ## Nowe znajomości: _Dostarcz przedmioty dla Terena_
 **Opis:**
 _Nawet nie zdążyłem się porządnie zapoznać a już oczekują odemnie wsparcia. Cóż załatwie im te zapasy, może dowiem się czegoś więcej._
@@ -547,9 +595,6 @@ Ruth (Wymaga ukończenia misji [Ekspedycja: Rozeznanie](#ekspedycja-rozeznanie))
 - 25 000 000 doświadczenia
 - 5 Antyczny Klucz
 
-OBOZ LOTRISA MISJE odblokowywuja sie po zrobieniu ekspedycja rozeznanie
-![alt text](image.png)
-
 ## Lekarstwo dla Martela: _Pierwsza pomoc!_
 **Opis:**
 _Błąkając się po obozie Lotrisa natrafiłem na Menny'ego, który opowiedział mi o jednym z członków ekspedycji - Martelu. Został on poważnie raniony przez pumę. Mogę rozejrzeć się po okolicy i przynieść Menny'emu składniki potrzebne do stworzenia lekarstwa. Kilka tkanin również mu się przyda..._
@@ -665,6 +710,22 @@ Mikkel
 - 1 000 000 sztuk złota
 - 2 500 000 doświadczenia
 
+## Nocny Łowca: _Udane Polowanie_
+**Opis:**
+_Nie wiem dlaczego na tej liście znalazły się Przeklęte posągi ale się domyślam. Oby nagroda była warta..._
+
+**Zleceniodawca:**
+Mikkel
+
+**Cel misji:**
+- Porozmawiaj z Mikkel
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 25 000 000 doświadczenia
+- 5 Antyczna Ruda
+- 5 Symbol Wzniesienia
+
 ## Tylko kilka buchów...: _Usmolony Ruth_
 **Opis:**
 _Ruth - jeden z wartowników w obozie Lotrisa chce, abym przyniósł mu kilka skrętów bagiennego ziela. Szuka też czegoś mocniejszego. Może Zielony Nowicjusz się nada?_
@@ -743,6 +804,21 @@ Automat
 - 20 000 000 sztuk złota
 - 25 000 000 doświadczenia
 - 10 Eliksir Badacza
+
+## Antymagia: _Przeklęte Posągi_
+**Opis:**
+_Przemierzając dolinę natknąłem się na coś nietypowego. Posągi wojownika z włócznią, większe niż dotychczasowe. Wytrzymalsze... Sam czułem się dosyć dziwnie kiedy na niego spoglądałem._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Zabij Przeklęty Posąg S. Umarłych: 25
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 25 000 000 doświadczenia
+- 10 Antyczna Mikstura
 
 ## Pomścić poległych!: _Polowanie_
 **Opis:**
@@ -943,6 +1019,116 @@ Generał Welfron
 **Nagroda:**
 - BRAK
 
+## W natarciu: _Raport_
+**Opis:**
+_Sprawa załatwiona, trzeba pogadać z Welfronem._
+
+**Zleceniodawca:**
+Aktywuje się automatycznie po ukończeniu poprzedniego kroku
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- BRAK
+
+## Szybka pomoc: _Infiltracja_
+**Opis:**
+_Cholera. Muszę odnaleźć rannego banitę. Może wiedzą coś co może mi się przydać. Najlepiej będzie jak udam się za śladami krwi... (Prowadzą one w stronę jaskini z pająkami. Trop urywa się tuż rpzed wejściem wgłąb jaskini, przy kratach.)_
+
+**Zleceniodawca:**
+Generał Welfron
+
+**Cel misji:**
+- Porozmawiaj z Carlos
+
+**Nagroda:**
+- BRAK
+
+## Szybka pomoc: _Materiały_
+**Opis:**
+_Znalazłem banitów o których mówił Welfron. Clark i Carlos, jeden z nich jest ranny. Muszę załatwić mu opatrunek, w innym wypadku raczej niczego z niego nie wyciągne... Udam się do Oberona, może będzie mógł zapewnić mi opatrunki._
+
+**Zleceniodawca:**
+Carlos
+
+**Cel misji:**
+- Dostarcz Kawałek Płótna: 5
+- Dostarcz Maść Przeciwbólowa: 1
+- Porozmawiaj z Clark
+
+**Nagroda:**
+- BRAK
+
+## Szybka pomoc: _Pomoc Lekarska_
+**Opis:**
+_Ten jest średnio przytomny, spróbuje pogadać z tym drugim chłystkiem - Carlosem._
+
+**Zleceniodawca:**
+Clark
+
+**Cel misji:**
+- Porozmawiaj z Carlos
+
+**Nagroda:**
+- 10 Klucz do Jaskini Banitów
+- 50 Prastara Esencja
+- 10 Zagadkowa Skrzynia
+
+## Trudny wybór: _Raport_
+**Opis:**
+_Hmm... Carlos mówił coś o bestii i kluczu. Powinienem pogadać o tym z Oberonem, ale zanim... Muszę zastanowić się czy spełnić ich prośbę._
+
+**Zleceniodawca:**
+Carlos
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- BRAK
+
+## Trudny wybór: _Raport_
+**Opis:**
+_Decyzja należy do mnie... Ehh, niech mają._
+
+**Zleceniodawca:**
+Generał Welfron
+
+**Cel misji:**
+- Porozmawiaj z Carlos
+
+**Nagroda:**
+- Punkty Życia: 2000
+
+## Światełko w tunelu: _Porozmawiaj z Generałem_
+**Opis:**
+_Pięć fragmentów klucza i posąg... No tak. Dobra, zajmę się tym później. Porozmawiam teraz z Welfronem, może wpadnie na jakiś pomysł._
+
+**Zleceniodawca:**
+Oberon
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- BRAK
+
+## Światełko w tunelu: _Wielka abominacja Banitów_
+**Opis:**
+_Welfron myśli, że banici będą chcieli z nami pertraktować. Głupiec. Załatwię to jak należy..._
+
+**Zleceniodawca:**
+Generał Welfron
+
+**Cel misji:**
+- Zabij Słaby Banita: 300
+- Zabij Banita: 150
+- Zabij Szef Banitów: 5
+
+**Nagroda:**
+- BRAK
+
 # Poziom 85
 
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
@@ -976,3 +1162,74 @@ Lotris
 **Nagroda:**
 - 250 000 000 sztuk złota
 - 500 000 000 doświadczenia
+
+## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
+**Opis:**
+_W końcu znalazłem kogoś, kto wie jak wytworzyć lepszy pancerz... Dziwny facet ale cóż miłości się nie wybiera. Przejde się do najbliższej karczmy, ale najpierw zorganizuje dla alkohol._
+
+**Zleceniodawca:**
+Nieznajomy
+> Otrzymanie misji wymaga posiadania przedmiotu `Schemat Pancerza`
+
+**Cel misji:**
+- Dostarcz Rum prawdziwego pirata: 5
+- Dostarcz Grog: 50
+- Dostarcz Wino: 500
+
+**Nagroda:**
+- Możliwość ulepszenia "Zbroji Pradawnych +9" do "Ciężki Pancerza Nordmarczyka St. 1"
+
+# Poziom 86
+
+## Papirusy Skryby: _Złote Papirusy_
+**Opis:**
+_Skryba powiedział mi o posłańcu magów wody. Podobno potrzebują papirusów, aby spisywać na nich magiczne zwoje. Ciekawe, może niedługo sam będę miał okazję skorzystać z takiego zwoju..._
+
+**Zleceniodawca:**
+Skryba
+
+**Cel misji:**
+- Dostarcz Złoty Papirus: 10
+- Porozmawiaj z Skryba
+
+**Nagroda:**
+- 50 000 000 sztuk złota
+- 200 000 000 doświadczenia
+- 2 Czaszka Stworzenia
+- Pierścień Doświadczenia
+- 10 Piekielny Klucz (Daily)
+
+## Jak z jedwabiu...: _Pajęczy Jedwab_
+**Opis:**
+_Jeden z członków ekspedycji Lotrisa - Varth - poprosił mnie o zdobycie pajęczego jedwabiu. Okazuje się, że prowadzi on badania nad wytwarzaniem mocnych, naturalnych lin, które mogłyby służyć do wspinaczki w trudnym terenie. Pajęczy jedwab z jaskiń nieopodal jest wyjątkowo wytrzymały. Po zdobyciu odpowiedniej ilości mam wrócić do Vartha._
+
+**Zleceniodawca:**
+Varth
+
+**Cel misji:**
+- Dostarcz Pajęczy Jedwab (Q): 3
+
+**Nagroda:**
+- 1 Kupon AC (500)
+- 1 Zwykły Artefakt Światłości
+- 2 Złota Sztabka
+
+## Skarbiec Valendoru: _Dostarcz Przedmioty_
+**Opis:**
+_Skryba powiedział mi o posłańcu magów wody. Podobno potrzebują papirusów, aby spisywać na nich magiczne zwoje. Ciekawe, może niedługo sam będę miał okazję skorzystać z takiego zwoju..._
+
+**Zleceniodawca:**
+Burmistrz
+
+**Cel misji:**
+- Dostarcz Bandycki Sygnet: 10
+- Dostarcz Stary Rytualny Miecz: 10
+- Dostarcz Pozłacany Naszyjnik: 10
+- Porozmawiaj z Burmistrz
+
+**Nagroda:**
+- 125 000 000 sztuk złota
+- 200 000 000 doświadczenia
+- 2 Czaszka Stworzenia
+- Pierścień Doświadczenia
+- 10 Piekielny Klucz (Daily)
