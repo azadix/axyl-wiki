@@ -820,6 +820,22 @@ Automat
 - 25 000 000 doświadczenia
 - 10 Antyczna Mikstura
 
+## Antymagia: _Oczyszczenie_
+**Opis:**
+_To tyle, powinienem wrócić do Neorusa i powiadomić go o wykonaniu zadania._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Neorus
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 25 000 000 doświadczenia
+- Pozyskiwanie Złota (Posągi): 5
+- Dominacja: 2
+
 ## Pomścić poległych!: _Polowanie_
 **Opis:**
 _Lotris znalazł dla mnie robotę. Mam zająć się stworem, który załatwił ich ostatniego posłańca. Powinienem rozejrzeć się w okolicy, tak gdzie znalazłem ciało..._
@@ -1129,6 +1145,32 @@ Generał Welfron
 **Nagroda:**
 - BRAK
 
+## Światełko w tunelu: _Raport_
+**Opis:**
+_Udało mi się. Przeszukując dowódce znalazłem dziwny kamień. Może to jeden z fragmentów?_
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- BRAK
+
+## Światełko w tunelu: _Obóz Banitów_
+**Opis:**
+_Pora zająć się hersztem. To powinno załątwić problem z banitami._
+
+**Zleceniodawca:**
+Generał Welfron
+
+**Cel misji:**
+- Zabij Herszt Banitów: 15
+
+**Nagroda:**
+- BRAK
+
 # Poziom 85
 
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
@@ -1233,3 +1275,83 @@ Burmistrz
 - 2 Czaszka Stworzenia
 - Pierścień Doświadczenia
 - 10 Piekielny Klucz (Daily)
+
+# Poziom 87
+
+## Pancerz Sary: _Porozmawiaj z Kevinem_
+**Opis:**
+_Sara opowiedziała mi o swoim starciu z pumą, podczas którego jej pancerz został zniszczony. Wygląda na to, ze potrzebuje nowego. Może Kevin będzie w stanie pomóc, jeśli zdobędę odpowiednie materiały._
+
+**Zleceniodawca:**
+Sara
+
+**Cel misji:**
+- Porozmawiaj z Kevin
+
+**Nagroda:**
+- BRAK
+
+## Pancerz Sary: _Dostarcz Towary_
+**Opis:**
+_Kevin zgodził się zrobić pancerz dla Sary, dał mi listę brakujących składników. Kiedy uda mi się zdobyć rzeczy z listy powinienem wrócić do Kevina._
+
+**Zleceniodawca:**
+Kevin
+
+**Cel misji:**
+- Dostarcz Skóra młodego trolla: 25
+- Dostarcz Skóra Leśnego Zębacza: 75
+- Dostarcz Pradawny Klejnot: 10
+- Dostarcz Odłamek Jedności: 3
+- Porozmawiaj z Kevin
+
+**Nagroda:**
+- BRAK
+
+## List do brata: _Porozmawiaj z Rion_
+**Opis:**
+_Menny, członek wodnego kręgu, matrwi się o swojego brata Riona, który przebywa na wyspie Valendor. Menny bierze udział w ekspedycji badającej prastarą kulturę, daleko od rodzinnych stron, i prosi mnie o dostarczenie listu do Riona który jest myśliwym na wyspie Valendor._
+
+**Zleceniodawca:**
+Menny
+
+**Cel misji:**
+- Porozmawiaj z Rion
+
+**Nagroda:**
+- BRAK
+
+## List do brata: _Porozmawiaj z Menny_
+**Opis:**
+_Dostarczyłem list Menny'ego do jego brata Riona. Rion trzyma się dobrze i wkrótce postara się odpowiedzieć na wiadomość. Teraz muszę wrócić do Menny'ego._
+
+**Zleceniodawca:**
+Rion
+
+**Cel misji:**
+- Porozmawiaj z Menny
+
+**Nagroda:**
+- 125 000 000 sztuk złota
+- 200 000 000 doświadczenia
+- 2 Księga Pradawnych
+- 5 Kamień Ogniskujący
+- Kupon AC (100)
+
+## Sakralne Poświęcenie: _Sakralna Gwiazda_
+**Opis:**
+_Mag Artefaktus poprosił mnie o przyniesienie sakralnej gwiazdy. W rękach doświadczonego maga może ona stanowić podstawę do stworzenia potężnej runy magicznej._
+
+**Zleceniodawca:**
+Artefaktus
+
+**Cel misji:**
+- Dostarcz Sakralna Gwiazda: 1
+- Porozmawiaj z Artefaktus
+
+**Nagroda:**
+- 125 000 000 sztuk złota
+- 300 000 000 doświadczenia
+- 2 Karta Prawdy
+- 3 Boski Grall
+- 1 Rzadki Artefakt Tytana
