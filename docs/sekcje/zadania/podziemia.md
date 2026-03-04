@@ -288,6 +288,22 @@ Rozpoczyna się automatycznie po ukończeniu misji [Anihilacja: Piekielne Ruiny 
 - Zwykły Artefakt Piekła
 - 250 Medal Odwagi
 
+## Anihilacja: Piekielne Ruiny Klasztoru!: _Raport_
+**Opis:**
+_Okazuje się, że w Ruinach klasztoru zalęgły się obrzydliwe siły zła._
+
+**Zleceniodawca:**
+Rozpoczyna się automatycznie po ukończeniu misji [Anihilacja: Piekielne Ruiny Klasztoru!: Wyzwanie II](#anihilacja-piekielne-ruiny-klasztoru-wyzwanie-ii)
+
+**Cel misji:**
+- Porozmawiaj z Przeor Ertos
+
+**Nagroda:**
+- 100 000 000 sztuk złota
+- 10 Antyczny Klucz
+- Sakralna Woda
+- 250 Medal Odwagi
+
 # Poziom 82
 
 ## Badacz - Antyczny Proszek: _Antyczny Proszek_
@@ -656,6 +672,69 @@ Umbra
 **Cel misji:**
 - Zabij Leśny Zębacz: 500
 - Zabij Nocny Łowca: 3
+
+**Nagroda:**
+- 1 000 000 sztuk złota
+- 2 500 000 doświadczenia
+
+## Polowanie - Tropikalny zębacz: _Raport_
+**Opis:**
+_Naprawde groźne stworzenia... Na przyszłość będę musiał się lepiej zaopatrzyć. Udam się do Umbry_
+
+**Zleceniodawca:**
+Umbra
+
+**Cel misji:**
+- Porozmawiaj z Umbra
+
+**Nagroda:**
+- 10 000 000 sztuk złota
+- 2 500 000 doświadczenia
+- Punkty Życia: 1000
+- 5 Klucz do Jaskini Pająków
+- 5 Klucz do Obozu Banitów
+
+## Polowanie - Pajęcze Gniazdo: _Wszędzie te pajęczaki..._
+**Opis:**
+_Umbra dał mi zlecenie, abym zajął się pajęczymi gniazdami, nienawidzę pająków..._
+
+**Zleceniodawca:**
+Umbra
+
+**Cel misji:**
+- Zabij Straszliwy Pająk: 200
+- Zabij Pajęczy Kokon: 10
+
+**Nagroda:**
+- 1 000 000 sztuk złota
+- 2 500 000 doświadczenia
+
+## Polowanie - Pajęcze Gniazdo: _Fobia_
+**Opis:**
+_Naprawdę obrzydliwe... Zdam raport Umbrze._
+
+**Zleceniodawca:**
+Umbra
+
+**Cel misji:**
+- Porozmawiaj z Umbra
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 25 000 000 doświadczenia
+- 3 Starożytny Zwój+
+- 5 Eliksir Badacza (Wielki)
+
+## Polowanie - Pumy: _Dzikie Bestie_
+**Opis:**
+_Umbra dał mi zlecenie, abym zajął się pumami. No cóż, pora ruszać!_
+
+**Zleceniodawca:**
+Umbra
+
+**Cel misji:**
+- Zabij Puma: 500
+- Zabij Krwiożercza Puma: 6
 
 **Nagroda:**
 - 1 000 000 sztuk złota
