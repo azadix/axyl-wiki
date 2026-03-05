@@ -1250,6 +1250,47 @@ Generał Welfron
 **Nagroda:**
 - BRAK
 
+## Światełko w tunelu: _Ostateczność_
+**Opis:**
+_Przy herszcie znalazłem kolejny fragment. Mam wrażenie, że pasują do siebie. Lepiej będzie jak pokażę je Oberonowi. Ale wpierw udam się do Welfrona._
+
+**Zleceniodawca:**
+Generał Welfron
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 50 000 000 doświadczenia
+- Silny na Wyprawy: 5
+
+## Wielkie Poświęcenie: _Odszukaj Zwłoki_
+**Opis:**
+_Magowie... Jak zawsze przydatni. (Bohater: Eksplorując podziem ia natknąłem się na przerośniętego pająka wśród jednych z ruin. Postanowiłem urządzić sobie małe polowanie...)_
+
+**Zleceniodawca:**
+Oberon
+
+**Cel misji:**
+- Porozmawiaj z Zwłoki
+
+**Nagroda:**
+- BRAK
+
+## Układanka: _Jaskinia Pająków_
+**Opis:**
+_Spotkałem na swojej drodze królową pająków, szybko się nią zająłem. Pora zbadać jaskinie nieopodal._
+
+**Zleceniodawca:**
+Zwłoki
+
+**Cel misji:**
+- Zabij Król Pająków: 5
+
+**Nagroda:**
+- BRAK
+
 # Poziom 85
 
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
@@ -1434,3 +1475,104 @@ Artefaktus
 - 2 Karta Prawdy
 - 3 Boski Grall
 - 1 Rzadki Artefakt Tytana
+
+# Poziom 88
+
+## Piracka Przyjemność: _Dostarcz przedmioty_
+**Opis:**
+_Thorne zauważył, że piraci ostatnio stali się bardziej zrzędliwi. Potrzebuje twojej pomocy w dostarczeniu im trunków - 75 butelek Ostrego Grogu i 25 Rumów prawdziwego pirata - aby poprawić im humor. _
+
+**Zleceniodawca:**
+Thorne
+
+**Cel misji:**
+- Dostarcz Ostry Grog: 75
+- Dostarcz Rum prawdziwego pirata: 25
+- Porozmawiaj z Thorne
+
+**Nagroda:**
+- 125 000 000 sztuk złota
+- 350 000 000 doświadczenia
+- 30 Antyczny Klucz
+- Bonus Exp: 3
+
+## Rytułał: _Naładowane Odłamki_
+**Opis:**
+_Mag Alsandair potrzebuje 100 naładowanch odłamków, by przeprowadzić rytuał pozwalający na obudzenie pradawnego golema. Prosi mnie o ich dostarczenie, aby kontynuować swoje badania nad ożywianiem kamiennych istot._
+
+**Zleceniodawca:**
+Alsandair
+
+**Cel misji:**
+- Porozmawiaj z Alsandair
+- Dostarcz Naładowany Odłamek: 100 
+
+**Nagroda:**
+- 125 000 000 sztuk złota
+- 350 000 000 doświadczenia
+- Ekslkluzywna Skrzynia
+
+## Zajęcie dla Pustelnika: _Dostarcz przedmioty_
+**Opis:**
+_Pustelnikowi, który żyje w górach, zaczyna się nudzić. Chce zgłębić język starożytnych budowniczych, ale potrzebuje do tego pięciu specjalnych tablic: fioletowej, czerwonej, zielonej, niebieskiej i żółtej._
+
+**Zleceniodawca:**
+Pustelnik
+
+**Cel misji:**
+- Dostarcz Fioletowa Tablica: 100
+- Dostarcz Czerwona Tablica: 35
+- Dostarcz Zielona Tablica: 10
+- Dostarcz Niebieska Tablica: 10
+- Dostarcz Żółta Tablica: 5
+
+**Nagroda:**
+- 125 000 000 sztuk złota
+- 350 000 000 doświadczenia
+- 30 Antyczny Klucz
+
+## Bóle Coruma: _Porozmawiaj z Rust_
+**Opis:**
+_Corum cierpi na nieznośne bóle głowy. Rozejrzę się za czymś co ukoi jego ból._
+
+**Zleceniodawca:**
+Corum
+
+**Cel misji:**
+- Porozmawiaj z Rust
+
+**Nagroda:**
+- BRAK
+
+## Bóle Coruma: _Dostarcz przedmioty_
+**Opis:**
+_Rust wie, jak przygotować lekastwo na bóle głowy Coruma, ale potrzebuje kilku składników: bagiennego ziela, woreczka bagiennego trutnia, miodu i czerwonego ostrego pieprzu. Muszę je zdobyć_
+
+**Zleceniodawca:**
+Rust
+
+**Cel misji:**
+- Porozmawiaj z Rust
+- Dostarcz Bagienne Ziele: 1000
+- Dostarcz Worek B. Trutnia: 25
+- Dostarcz Miód: 25
+- Dostarcz Czerwony Ostry Pieprz: 25
+
+**Nagroda:**
+- BRAK
+
+## Bóle Coruma: _Dostarcz przedmioty_
+**Opis:**
+_Rust wie, jak przygotować lekastwo na bóle głowy Coruma, ale potrzebuje kilku składników: bagiennego ziela, woreczka bagiennego trutnia, miodu i czerwonego ostrego pieprzu. Muszę je zdobyć_
+
+**Zleceniodawca:**
+Rust
+
+**Cel misji:**
+- Porozmawiaj z Corum
+
+**Nagroda:**
+- 125 000 000 sztuk złota
+- 350 000 000 doświadczenia
+- 15 Klucz do Koloseum
+- 15 Piekielny Klucz

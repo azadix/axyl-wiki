@@ -13,6 +13,7 @@ Tablica Ogłoszeń
 - Etap 3: Dostarcz Zdobiony Sztylet (Q): 1
 - Etap 4: Porozmawiaj z Berengar
 - Etap 5: Porozmawiaj z Larson
+- Etap 6: Porozmawiaj z Carl
 
 **Nagroda:**
 - 
