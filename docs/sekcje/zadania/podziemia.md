@@ -205,6 +205,54 @@ Wolf
 - 200 000 sztuk złota
 - 500 000 doświadczenia
 
+## Podziemne polowanie - Nieumarli: _Porozmawiaj z Wolf_
+**Opis:**
+_Nie było łatwo... Ale się udało!_
+
+**Zleceniodawca:**
+Wolf
+
+**Cel misji:**
+- Porozmawiaj z Wolf
+
+**Nagroda:**
+- 3 000 000 sztuk złota
+- 2 000 000 doświadczenia
+- 1 Legendarna Moneta
+- 50 Prastara Esencja
+- Antyczny Klucz
+
+## Podziemne trofea - Pradawne Księgi: _Księgi dla Terena_
+**Opis:**
+_Teren potrzebuje pradawnych ksiąg, postaram się mu je dostarczyć szybko._
+
+**Zleceniodawca:**
+Teren
+
+**Cel misji:**
+- Dostarcz Pradawna Księga: 40
+
+**Nagroda:**
+- 3 000 000 sztuk złota
+- 2 000 000 doświadczenia
+- 1 Pradawny Klejnot
+- Po ukończeniu trofeów otrzymasz stały bonus!
+
+## Łowca głów - Banici: _Rozpraw się z napastnikami_
+**Opis:**
+_Wychodzi na to, że to dopiero początek mojej kariery tutaj, cóż byłem na to gotowy._
+
+**Zleceniodawca:**
+Wolf
+
+**Cel misji:**
+- Zabij Słaby Banita: 200
+- Zabij Banita: 200
+
+**Nagroda:**
+- 2 000 000 sztuk złota
+- 5 000 000 doświadczenia
+
 ## Nowe znajomości: _Dostarcz przedmioty dla Terena_
 **Opis:**
 _Nawet nie zdążyłem się porządnie zapoznać a już oczekują odemnie wsparcia. Cóż załatwie im te zapasy, może dowiem się czegoś więcej._
@@ -740,6 +788,54 @@ Umbra
 - 1 000 000 sztuk złota
 - 2 500 000 doświadczenia
 
+## Polowanie - Pumy: _Raport_
+**Opis:**
+_Załatwione pumy co miały jaja z gumy... Umbra będzie zadowolony._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Umbra
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 25 000 000 doświadczenia
+- 15 Antyczny Klucz
+- 5 Symbol Wzniesienia
+
+## Niszczyciel - Kamienni Strażnicy!: _Twardy jak Skała_
+**Opis:**
+_Umbra dał mi zlecenie, abym zajął się kamiennymi strażnikami. Przydałby się jakiś porządny młot._
+
+**Zleceniodawca:**
+Umbra
+
+**Cel misji:**
+- Zabij Strażnik Koloseum: 500
+- Zabij Przeklęty Posąg S. Umarłych: 20
+- Zabij Strażnik Skarbu: 5
+
+**Nagroda:**
+- 1 000 000 sztuk złota
+- 2 500 000 doświadczenia
+
+## Niszczyciel - Kamienni Strażnicy!: _Rozłupany problem_
+**Opis:**
+_Nie wiem dlaczego na tej liście znalazły się Przeklęte posągi ale się domyślam. Oby nagroda była warta..._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Umbra
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 25 000 000 doświadczenia
+- Bryła Złota
+- 5 Symbol Wzniesienia
+
 ## Rzadkie Trofea I: _Skóry Leśnego Zębacza_
 **Opis:**
 _W obozie Lotrisa spotkałem człowieka o imieniu Ketris, będzie kupował ode mnie trofea, które uda mi się zdobyć z tutejszych potworów... Na początek skóry leśnych zębaczy. Z tego co pamiętam mowa była o dwóch tuzinach._
@@ -773,6 +869,39 @@ Ketris
 - 20 000 000 sztuk złota
 - 25 000 000 doświadczenia
 - Piekielny Odłamek
+
+## Rzadkie Trofea III: _Pumy co mają..._
+**Opis:**
+_Pora zapolować na pumy. Ketris zlecił mi zdobycie kłów i serc owych bestii._
+
+**Zleceniodawca:**
+Ketris
+
+**Cel misji:**
+- Dostarcz Serce Pumy: 25
+- Dostarcz Kły Pumy: 15
+- Porozmawiaj z Ketris
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 25 000 000 doświadczenia
+- 150 Prastara Esencja
+
+## Rzadkie Trofea IV: _Trolliska_
+**Opis:**
+_Pora zapolować na trolle.Ketris zlecił mi zdobycie skór trolli... Chyba lepiej ominę ich matkę, szkoda czasu._
+
+**Zleceniodawca:**
+Ketris
+
+**Cel misji:**
+- Dostarcz Skóra młodego trolla: 20
+- Porozmawiaj z Ketris
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 25 000 000 doświadczenia
+- Silny na piekielnych: 5
 
 ## Nocny Łowca: _Potężna Bestia_
 **Opis:**
@@ -1291,6 +1420,319 @@ Zwłoki
 **Nagroda:**
 - BRAK
 
+## Układanka: _Rozeznanie_
+**Opis:**
+_W jaskini nie znalazłem nic oprócz gniazda pająków oraz ich króla. Obrzydliwe. Pora pomówić z Oberonem, muszę powiedzieć mu, że znalazłem już trzeci fragment. Jeszcze pozostałe dwa._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Oberon
+
+**Nagroda:**
+- 10 000 000 sztuk złota
+- 250 000 000 doświadczenia
+- 5 Antyczny Klucz
+- 5 Antyczna Mikstura
+
+## Powrót Nieprzyjaciela: _Poszukiwacze_
+**Opis:**
+_Cholera, jeżeli okaże się, że ten dureń ma rację przyjdzie mi ponownie walczyć z poszukiwaczami._
+
+**Zleceniodawca:**
+Zwiadowca
+
+**Cel misji:**
+- Zabij Poszukiwacz: 200
+
+**Nagroda:**
+- BRAK
+
+## Powrót Nieprzyjaciela: _Mroczny Wysłannik_
+**Opis:**
+_Cholera! To nie wszyscy, jest tu jeszcze jeden..._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Zabij Mroczny Wysłannik: 2
+
+**Nagroda:**
+- BRAK
+
+## Powrót Nieprzyjaciela: _Zagłada_
+**Opis:**
+_To nie było takie proste! Cholera, walcząc z tym przeklętym pajacem widziałem stwora, który odpowiedzialny jest za krzyki. Lepiej nie będę podchodził zbyt blisko. Czuję... Czuję sie dziwnie... Znalazłem też przy tym sukinsynie kolejny fragment klucza...._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Oberon
+
+**Nagroda:**
+- Obrażenia: 50
+
+## Rozbity dostęp: _Fragmenty Ostateczności_
+**Opis:**
+_Oberon może wykonać brakujący fragment z posągów znajdujących się na podziemiach. Nie pozostaje mi nic innego niż zdobycie ich._
+
+**Zleceniodawca:**
+Oberon
+
+**Cel misji:**
+- Dostarcz Fragment posągu ostateczności: 50
+- Porozmawiaj z Oberon
+
+**Nagroda:**
+- 1 Odłamek Jedności
+- 5 MIkstura Potęgi
+- 3 Mikstura Odkrywcy
+- 3 Antyczna Mikstura
+- Sakralna Gwiazda
+
+## Klucz do sukcesu: _Kamienna Statua_
+**Opis:**
+_Oberon w końcu połączył wszystkie fragmenty klucza, które zbierałem w trakcie swoich zmagań w tych przeklętych podziemiach. Muszę teraz znaleźć miejsce, w którym będę mógł go wykorzystać..._
+
+**Zleceniodawca:**
+Oberon
+
+**Cel misji:**
+- Porozmawiaj z Kamienna Statua
+
+**Nagroda:**
+- BRAK
+
+## Klucz do sukcesu: _Tajemnicza biblioteka_
+**Opis:**
+_Moja runa... Stojąc tu czuję, że mogę przenieść się w dodatkowe miejsce..._
+
+**Zleceniodawca:**
+Oberon
+
+**Cel misji:**
+- Zabij Strażnik Mroku: 3
+
+**Nagroda:**
+- BRAK
+
+## Źródło: _Dzwiny Amulet_
+**Opis:**
+_Po użyciu teleoportu trafiłem do ukrytej biblioteki gdzieś wewnątrz podziemi. Natrafiłem na trzech piekielnie silnych magów, jednakże udało mi się ich pokonać. Znalazłem przy nich dziwny amulet... Powinienem pokazać go Oberonowi._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Oberon
+
+**Nagroda:**
+- BRAK
+
+## Źródło: _Zniszczenie_
+**Opis:**
+_Po rozmowie z Oberonem udało nam się ustalić, że amulet, który zdobyłem pozwala na kontrolę bestii z podziemi. Nie może wpaść on w niepowołane ręce, więc postanowiliśmy go zniszczyć. W tym celu muszę zebrać resztę materiałów._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Dostarcz Błogosławieństwo Bogów: 100 000
+- Dostarcz Magiczna Diamenty: 35 000
+- Dostarcz Magiczny Odłamek: 35 000
+- Dostarcz Prastara Esencja: 5 000
+- Dostarcz Boskie Wzmocnienie: 5 000
+- Dostarcz Magiczna Ruda: 1 500
+
+**Nagroda:**
+- BRAK
+
+## Pradawny Strażnik: _Finalne Starcie_
+**Opis:**
+_Jestem gotów stawić czoła tej potężnej bestii, pora wygnać pradawnego strażnika! Alternatywnie Oddaj 25000 prastarej esencji do Magnusa_
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Dostarcz Prastara Esencja: 25 000
+> Jeśli zabijemy TODO_NAZWA_LEGENDY wtedy musimy dostarczyć tylko 1 sztukę
+- Porozmawiaj z Magnus
+
+**Nagroda:**
+- BRAK
+
+## Pradawny Strażnik: _Wybawienie_
+**Opis:**
+_Udało się! Nareszcie wygnany! Oberon musi się o tym dowiedzieć._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Oberon
+
+**Nagroda:**
+- BRAK
+
+## Pradawny Strażnik: _Raport_
+**Opis:**
+_Pora zdać raport Welfronowi, zdecydowanie będzie zadowolony._
+
+**Zleceniodawca:**
+Oberon
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- Zapieczętowany Pierścień Chwały
+- Zwykły Artefakt Tytana
+- 30 Sakralny Odłamek
+- 100 000 000 sztuk złota
+- Punkty życia: 5%
+- Silny na Władców: 15
+
+## Wieści dla magów: _Finalizacja_
+**Opis:**
+_Magnus musi się dowiedzieć o wszystkim._
+
+**Zleceniodawca:**
+Magnus
+
+**Cel misji:**
+- Porozmawiaj z Magnus
+
+**Nagroda:**
+- 10 Klucz do Koloseum
+
+## Górnicza Dolina: _Posłaniec_
+**Opis:**
+_Widzieliśmy łódkę zbliżającą się do brzegu obozu, pora sprawdzić kto tu przypłynął._
+
+**Zleceniodawca:**
+Generał Welfron
+
+**Cel misji:**
+- Porozmawiaj z Królewski Posłaniec
+
+**Nagroda:**
+- BRAK
+
+## Górnicza Dolina: _Wieści_
+**Opis:**
+_Posłaniec królewski przekazał mi naprawdę istotne wieści, muszę koniecznie przekazać je generałowi Welfronowi._
+
+**Zleceniodawca:**
+Królewski Posłaniec
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- BRAK
+
+## Odpowiedź: _Thorne_
+**Opis:**
+_Thorne przerwał naszą rozmowę z Welfronem, chyba chciał coś wtrącić._
+
+**Zleceniodawca:**
+Generał Welfron
+
+**Cel misji:**
+- Porozmawiaj z Thorne
+
+**Nagroda:**
+- BRAK
+
+## Mapa wyspy Khorinis: _Bagienna sprawa..._
+**Opis:**
+_Thorne dał mi bardzo ciekawą radę. Muszę zdobyć mapę wyspy Khorinis, Smoła powinien mieć jeszcze jedną na stanie, ale jeżeli chcę ją dostać powinienem uzbroić się w pokaźny zapas skrętów z bagiennego ziela..._
+
+**Zleceniodawca:**
+Thorne
+
+**Cel misji:**
+- Porozmawiaj z Smoła
+
+**Nagroda:**
+- BRAK
+
+## Mapa wyspy Khorinis: _Bagienna sprawa..._
+**Opis:**
+_No tak, ziele! O tym mówił Thorne_
+
+**Zleceniodawca:**
+Smoła
+
+**Cel misji:**
+- Dostarcz Joint: 50
+- Dostarcz Zielony Nowicjusz: 50
+- Porozmawiaj z Smoła
+
+**Nagroda:**
+- BRAK
+
+## Mapa wyspy Khorinis: _Raport_
+**Opis:**
+_Mam mapę o której mówił Welfron, pora do niego wrócić._
+
+**Zleceniodawca:**
+Smoła
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- 20 000 000 sztuk złota
+- 100 000 000 doświadczenia
+
+## Ja też, ja też: _Kompan_
+**Opis:**
+_Leif usłyszał naszą rozmowę z Welfronem, a teraz chce płynąć z nami. Niech mu będzie, porozmawiam z Welfronem_
+
+**Zleceniodawca:**
+Leif
+
+**Cel misji:**
+- Porozmawiaj z Generał Welfron
+
+**Nagroda:**
+- BRAK
+
+## Ja też, ja też: _Kompan_
+**Opis:**
+_Wychodzi na to, że Welfron nie ma nic przeciwko, myślę, że Leif będzie zadowolony_
+
+**Zleceniodawca:**
+Leif
+
+**Cel misji:**
+- Porozmawiaj z Leif
+
+**Nagroda:**
+- Precyzja: 2
+
+## Naszyjnik Sary: _Poszukiwania_
+**Opis:**
+_Sara zgubiła swój naszyjnik, a ja oczywiście mam słabość do kobiet więc postanowiłem jej pomóc... Cóż postaram się go odnaleźć._
+
+**Zleceniodawca:**
+Sara
+
+**Cel misji:**
+- Dostarcz Wyżłobiony Naszyjnik: 1
+- Porozmawiaj z Sara
+
+**Nagroda:**
+- 125 000 000 sztuk złota
+- 200 000 000 doświadczenia
+- 10 Klucz do Koloseum
+- 5 Antyczna Mikstura
+
 # Poziom 85
 
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
@@ -1427,6 +1869,24 @@ Kevin
 
 **Nagroda:**
 - BRAK
+
+## Pancerz Sary: _Porozmawiaj z Sara_
+**Opis:**
+_Kevin skończył pracę nad pancerzem. Teraz muszę go dostarczyć Sarze._
+
+**Zleceniodawca:**
+Kevin
+
+**Cel misji:**
+- Porozmawiaj z Sara
+
+**Nagroda:**
+- 100 000 000 sztuk złota
+- 300 000 000 doświadczenia
+- 1 Boski Grall
+- 1 Karty Prawdy
+- 10 Klucz do Koloseum
+- 10 Piekielny Klucz (Daily)
 
 ## List do brata: _Porozmawiaj z Rion_
 **Opis:**
