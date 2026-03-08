@@ -253,6 +253,242 @@ Wolf
 - 2 000 000 sztuk złota
 - 5 000 000 doświadczenia
 
+## Łowca głów - Banici: _Porozmawiaj z Wolf_
+**Opis:**
+_Nie było łatwo... Ale się udało!_
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Wolf
+
+**Nagroda:**
+- 3 000 000 sztuk złota
+- 2 000 000 doświadczenia
+- 1 Legendarna Moneta
+- 30 Krystaliczny Pył
+
+## Podziemne trofea - Antyczny Proszek: _Porozmawiaj z Oberonem_
+**Opis:**
+_Hmm Teren nie potrzebuje proszku, może Oberon?_
+
+**Zleceniodawca:**
+Teren
+
+**Cel misji:**
+- Porozmawiaj z Oberon
+
+**Nagroda:**
+- 3 000 000 sztuk złota
+- 2 000 000 doświadczenia
+
+## Podziemne trofea - Antyczny Proszek: _Dostarcz Proszek Oberonowi_
+**Opis:**
+_No i wiedziałem, że się z nim dogadam, dozbieram pare sztuk i będę miał całość_
+
+**Zleceniodawca:**
+Oberon
+
+**Cel misji:**
+- Dostarcz Antyczny Proszek: XX
+- Porozmawiaj z Oberon
+
+**Nagroda:**
+- 3 000 000 sztuk złota
+- 2 000 000 doświadczenia
+- Kleptomancja: 5
+- Bonus Złota: 5
+
+## Łowca Głów - Poszukiwacze: _Wypędź zło!_
+**Opis:**
+_Luka dziwnie się czuje, mówił, że odczuwa w pobliżu oddziałowywanie mrocznej magii. Poriwnienem się rozejrzeć w okolicy._
+
+**Zleceniodawca:**
+Luka
+
+**Cel misji:**
+- Zabij Poszukiwacz: 250
+
+**Nagroda:**
+- BRAK
+
+## Łowca Głów - Poszukiwacze: _Porozmawiaj z Luka_
+**Opis:**
+_Udało mi się ich odnaleźć i pokonać, lepiej pogadam o tym z magiem._
+
+**Zleceniodawca:**
+Luka
+
+**Cel misji:**
+- Porozmawiaj z Luka
+
+**Nagroda:**
+- 5 000 000 sztuk złota
+- 20 000 000 doświadczenia
+- 75 Prastara Esencja
+- 1 Mikstura Odkrywcy
+- Kupon AC (50)
+
+## Pogromca - Królowa Pająków: _Polowanie na wielkiego Pająka_
+**Opis:**
+_Wolf planował wybrać się na polowanie wgłąb katakumb. Szybko wybiłem mu ten pomysł z głowy i zaproponowałem, że przyniosę mu trofea._
+
+**Zleceniodawca:**
+Wolf
+
+**Cel misji:**
+- Zabij Królowa Pająków: 2
+
+**Nagroda:**
+- BRAK
+
+## Pogromca - Królowa Pająków: _Porozmawiaj z Wolf_
+**Opis:**
+_Strasznie silna bestia to była... Nienawidzę pająków... Wolf powinien być zadowolony._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Wolf
+
+**Nagroda:**
+- 5 000 000 sztuk złota
+- 20 000 000 doświadczenia
+- 10 Klucz do Jaskini Pająków
+- 1 Mikstura Odkrywcy
+- Odłamek Jedności
+
+## Pogromca - Dowódca Banitów: _Zgładź Dowódce Banitów_
+**Opis:**
+_Cholera, kogo ja zabrałem ze sobą... Wolf chyba zgłupiał, ale niech mu będzie. Przynajmniej mieczem potrafi wymachiwać. Muszę przynieść mu jakieś skarby banitów, ubzdurał sobie, że chce opuścić podziemia bogaty..._
+
+**Zleceniodawca:**
+Wolf
+
+**Cel misji:**
+- Zabij Dowódca Banitów: 2
+
+**Nagroda:**
+- BRAK
+
+## Pogromca - Dowódca Banitów: _Porozmawiaj z Wolf_
+**Opis:**
+_Dali mi nieźle popalić, na szczęście byłem dobrze przygotowany. Wolf powinien być zadowolony._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Wolf
+
+**Nagroda:**
+- 5 000 000 sztuk złota
+- 20 000 000 doświadczenia
+- 10 Klucz do Obozu Banitów
+- 1 Mikstura Odkrywcy
+- Odłamek Jedności
+
+## Pogromca - Pradawny Wódz: _Odszukaj i pokonaj Pradawny Wódz_
+**Opis:**
+_Przemierzając podziemia natrafiłem na rozpłatane ciało, nie wyglądało to na poszukiwaczy. Obym nie skończył tak samo..._
+
+**Zleceniodawca:**
+Zwłoki
+
+**Cel misji:**
+- Zabij Pradawny Wódz: 1
+
+**Nagroda:**
+- BRAK
+
+## Pogromca - Pradawny Wódz: _Porozmawiaj z Teren_
+**Opis:**
+_Cholera, natrafiłem na jakiegoś nieumarłego wodza! Było blisko, ale go załatwiłem. Znalazłem przy nim dziwny emblemat, dam go Terenowi. Niech chłopak też coś ma z tej wyprawy._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Teren
+
+**Nagroda:**
+- 5 000 000 sztuk złota
+- 20 000 000 doświadczenia
+- 3 Determinacja
+
+
+## Niszczyciel - Podziemia: _Posągi Ostateczności_
+**Opis:**
+_Muszę zająć się posągami, w przeciwnym wypadku magowie wody narażeni będą na utratę swoich zdolności magicznych._
+
+**Zleceniodawca:**
+Oberon
+
+**Cel misji:**
+- Zabij Posąg Ostateczności: 100
+
+**Nagroda:**
+- BRAK
+
+## Niszczyciel - Podziemia: _Posągi Kleryków_
+**Opis:**
+_Jeden rodzaj za mną, pora na posągi kleryków._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Zabij Posąg Kleryków: 80
+
+**Nagroda:**
+- BRAK
+
+## Niszczyciel - Podziemia: _Posągi Końca_
+**Opis:**
+_Przemierzając podziemia natrafiłem na kolejny rodzaj posągów, nie jestem pewien, czu one również zostały spaczone, ale lepiej zapobiegać niż zwalczać_
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Zabij Posąg Końca: 80
+
+**Nagroda:**
+- BRAK
+
+## Niszczyciel - Podziemia: _Przeklęte Posągi_
+**Opis:**
+_Spotkałem na swojej drodze naprawdę przerażające posągi.. na wszelki wypadek się nimi zajme!_
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Zabij Przeklęty Posąg S. Umarłych: 20
+
+**Nagroda:**
+- BRAK
+
+## Niszczyciel - Podziemia: _Uwolnienie Zła_
+**Opis:**
+_Zająłem się posągami, muszę się dowiedzieć czy magowie czują ulge._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Oberon
+
+**Nagroda:**
+- 25 000 000 sztuk złota
+- 200 000 000 doświadczenia
+- Pozyskiwanie Złota z Posągów: 5
+- Zwykły Artefakt Waleczności
+- 5 Legendarna Moneta
+- 10 Antyczny Klucz
+
 ## Nowe znajomości: _Dostarcz przedmioty dla Terena_
 **Opis:**
 _Nawet nie zdążyłem się porządnie zapoznać a już oczekują odemnie wsparcia. Cóż załatwie im te zapasy, może dowiem się czegoś więcej._

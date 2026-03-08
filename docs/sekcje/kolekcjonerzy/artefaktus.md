@@ -24,7 +24,7 @@ Przedmioty możemy oddawać u następujących NPC:
 | Artefakt Ataku                 | 3 szt co 36h           | Obrażenia: 50                                                         |
 | Artefakt Zdobywcy              | 3 szt co 36h           | Chciwość: 10                                                          |
 | Artefakt Starożytnych          | 3 szt co 36h           | Obrażenia Końcowe PvM: 3                                              |
-| Artefakt Starożytnych          | 3 szt co 36h           | Silny na Ludzi: 5                                                     |
+| Artefakt Waleczności           | 3 szt co 36h           | Silny na Ludzi: 5                                                     |
 | Artefakt Piekła                | 3 szt co 36h           | Silny na Piekielnych: 10                                              |
 | Artefakt Łowcy                 | 3 szt co 36h           | Silny na Potwory: 20                                                  |
 | Artefakt Równowagi             | 3 szt co 36h           | Odporność na Ludzi: 5                                                 |
