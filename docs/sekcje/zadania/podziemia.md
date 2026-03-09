@@ -630,6 +630,25 @@ Seraphius
 - Punkty Życia: 10 000
 - Dominacja: 3
 
+![alt text](image-1.png)
+
+TODO quest na ulepszenie energii (wymaga posiadania wyzlobionego naszyjnika):
+step 1: ![alt text](image-2.png)
+2: ![alt text](image-3.png)
+3: ![alt text](image-4.png)
+4: ![alt text](image-5.png)
+5: ![alt text](image-6.png)
+6: ![alt text](image-7.png)
+7: ![alt text](image-8.png)
+8: ![alt text](image-9.png)
+9: ![alt text](image-10.png)
+10: ![alt text](image-11.png)
+11:![alt text](image-12.png)
+12:![alt text](image-13.png)
+13: ![alt text](image-14.png)
+
+
+
 ## Zły Znak: _Dostarcz przedmioty dla Seraphiusa_
 **Opis:**
 _Seraphius potrzebuje znaków śmierci, mogę je zdobyć pokonując poszukiwaczy_
@@ -767,6 +786,69 @@ Pradawny Mściciel
 - 200 000 sztuk złota
 - 500 000 doświadczenia
 
+## Anihilacja - Odkupienie: _Pradawny Mściciel Czeka_
+**Opis:**
+_Nie było łatwo... Ale się udało!_
+
+**Zleceniodawca:**
+Pradawny Mściciel
+
+**Cel misji:**
+- Porozmawiaj z Pradawny Mściciel
+
+**Nagroda:**
+- 3 000 000 sztuk złota
+- 2 000 000 doświadczenia
+- 8 Pradawny Klejnot
+- 2 Odłąmek Jedności
+- 10 Antyczna Mikstura
+- 10 Mikstura Potęgi
+- Dominacja: 3
+- Odporność na zaklęcia: 2
+
+## Wyzwanie - Śmierć Banitom I: _Śmierć Banitom!_
+**Opis:**
+_Carlos ma na pieńku z Banitami... ciekawe czego się od niego jeszcze dowiem. Pora złożyć wizytę Hersztowi_
+
+**Zleceniodawca:**
+Carlos
+
+**Cel misji:**
+- Zabij Herszt Banitów: 20
+
+**Nagroda:**
+- 5 000 000 sztuk złota
+- 10 000 000 doświadczenia
+
+## Wyzwanie - Śmierć Banitom II: _Śmierć Banitom!_
+**Opis:**
+_Carlos ma na pieńku z Banitami... ciekawe czego się od niego jeszcze dowiem. Pora złożyć wizytę Hersztowi_
+
+**Zleceniodawca:**
+Carlos
+
+**Cel misji:**
+- Zabij Herszt Banitów: 35
+
+**Nagroda:**
+- 5 000 000 sztuk złota
+- 10 000 000 doświadczenia
+
+## Wyzwanie - Śmierć Banitom III: _Śmierć Banitom!_
+**Opis:**
+_Carlos ma na pieńku z Banitami... ciekawe czego się od niego jeszcze dowiem. Pora złożyć wizytę Hersztowi_
+D
+**Zleceniodawca:**
+Carlos
+
+**Cel misji:**
+- Zabij Herszt Banitów: 35
+
+**Nagroda:**
+- 5 000 000 sztuk złota
+- 10 000 000 doświadczenia
+
+![alt text](image-16.png)
 
 ## Rzadkie Trofea z Podziemi I: _Dostarcz przedmioty do Amira_
 **Opis:**
@@ -2002,6 +2084,9 @@ Lotris
 **Nagroda:**
 - 250 000 000 sztuk złota
 - 500 000 000 doświadczenia
+
+![alt text](image.png)
+![alt text](image-15.png)
 
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
 **Opis:**
