@@ -4,6 +4,12 @@ Spis treści:
 1. [Misje Poziom 81](#poziom-81)
 2. [Misje Poziom 82](#poziom-82)
 3. [Misje Poziom 83](#poziom-83)
+4. [Misje Poziom 84](#poziom-84)
+5. [Misje Poziom 85](#poziom-85)
+6. [Misje Poziom 86](#poziom-86)
+7. [Misje Poziom 87](#poziom-87)
+8. [Misje Poziom 88](#poziom-88)
+9. [Misje Poziom 89](#poziom-89)
 
 # Poziom 81
 
@@ -19,7 +25,6 @@ Seraphius
 
 **Nagroda:**
 - Silny na starożytnych: 10
-
 
 ## To mu się już nie przyda...: _W poszukiwaniu..._
 **Opis:**
@@ -291,7 +296,7 @@ _No i wiedziałem, że się z nim dogadam, dozbieram pare sztuk i będę miał c
 Oberon
 
 **Cel misji:**
-- Dostarcz Antyczny Proszek: XX
+- Dostarcz Antyczny Proszek: TODO
 - Porozmawiaj z Oberon
 
 **Nagroda:**
@@ -630,15 +635,110 @@ Seraphius
 - Punkty Życia: 10 000
 - Dominacja: 3
 
-![alt text](image-1.png)
+## Badacz - Wyprawiony Łowca: _Wyprawiony Łowca_
+**Opis:**
+_Badacz Fane prosił mnie, aby przynieść mu trofea z dzikich bestii przy koloseum. Fane zapakuje sobie trofea na miejscu._
+
+**Zleceniodawca:**
+Fane
+
+**Cel misji:**
+- Dostarcz Paczka z trofeami I: 50
+
+**Nagroda:**
+- Silny na Ludzi: 8
+- Silny na Potwory: 8
+
 
 TODO quest na ulepszenie energii (wymaga posiadania wyzlobionego naszyjnika):
-step 1: ![alt text](image-2.png)
-2: ![alt text](image-3.png)
-3: ![alt text](image-4.png)
-4: ![alt text](image-5.png)
-5: ![alt text](image-6.png)
-6: ![alt text](image-7.png)
+## Dziwny Naszyjnik: _Dostarcz przedmioty_
+**Opis:**
+_Seraphius potrzebuje pyłu i proszku... Ciekawe jak mu to pomoże._
+
+**Zleceniodawca:**
+Seraphius
+
+**Cel misji:**
+- Dostarcz Antyczny Proszek: 125
+- Dostarcz Krystaliczny Pył: 50
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _W poszukiwaniu_
+**Opis:**
+_Seraphius powiedział mi o możliwości wytworzenia potężnego artefaktu. Nim do tego dojdzie, muszę naprawić amulet. Muszę znaleźć kowala, który się tego podejmie._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Kevin
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _W poszukiwaniu II_
+**Opis:**
+_Cholera, Kevin jest płatnerzem. Myślałem, że podoła temu zadaniu. Wygląda na to, że czeka mnie powrót do korzeni..._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Larson
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _Materiały do naprawy_
+**Opis:**
+_Cholera. Sporo tego, ale część rzeczy mam przy sobie. Resztę możliwe, że uda mi się zdobyć na samym Valendorze._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Dostarcz Antyczny Emblemat (Talizman): 1
+- Dostarcz Matowy Odłamek: 20
+- Dostarcz Błyszczący Odłamek: 20
+- Dostarcz Rzadki Odłamek: 10
+- Dostarcz Złota Płyta: 3
+- Dostarcz Antyczna Ruda: 200
+- Porozmawiaj z Larson
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _List do Magnusa_
+**Opis:**
+_Cóż... Czeka mnie podróż z powrotem. Muszę dostarczyć list od Seraphiusa do Magnusa. Może on mi coś doradzi._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Magnus
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _Tablice dla Magnusa_
+**Opis:**
+_Magnus poprosił mnie o dostarczenie mu tablic, które znajde w podziemiach. Zawierają informacje odnośnie rytuału, który będzie musiał odprawić. Tylko skąd on to wie? Mniejsza._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Dostarcz Kamienna Tablica II: TODO
+- Dostarcz Magiczna Kamienna Tablica: TODO
+- Dostarcz Magiczna Kamienna Tablica II: TODO
+- Porozmawiaj z Magnus
+
+**Nagroda:**
+- BRAK
+
 7: ![alt text](image-8.png)
 8: ![alt text](image-9.png)
 9: ![alt text](image-10.png)
@@ -837,7 +937,7 @@ Carlos
 ## Wyzwanie - Śmierć Banitom III: _Śmierć Banitom!_
 **Opis:**
 _Carlos ma na pieńku z Banitami... ciekawe czego się od niego jeszcze dowiem. Pora złożyć wizytę Hersztowi_
-D
+
 **Zleceniodawca:**
 Carlos
 
@@ -848,7 +948,22 @@ Carlos
 - 5 000 000 sztuk złota
 - 10 000 000 doświadczenia
 
-![alt text](image-16.png)
+## Raport: _Porozmawiaj z Carlosem_
+**Opis:**
+_Załatwiłem sprawę, ciekawe czy Carlos mi zapłaci._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Carlos
+
+**Nagroda:**
+- 5 000 000 sztuk złota
+- 10 000 000 doświadczenia
+- 2 Odłamek Jedności
+- 5 Pradawny Klejnot
+- 250 Prastara Esencja
 
 ## Rzadkie Trofea z Podziemi I: _Dostarcz przedmioty do Amira_
 **Opis:**
@@ -1877,7 +1992,7 @@ Automat
 
 **Cel misji:**
 - Dostarcz Prastara Esencja: 25 000
-> Jeśli zabijemy TODO_NAZWA_LEGENDY wtedy musimy dostarczyć tylko 1 sztukę
+> Jeśli zabijemy Pradawny Strażnik Podziemia wtedy musimy dostarczyć tylko 1 sztukę
 - Porozmawiaj z Magnus
 
 **Nagroda:**
@@ -2085,8 +2200,34 @@ Lotris
 - 250 000 000 sztuk złota
 - 500 000 000 doświadczenia
 
-![alt text](image.png)
-![alt text](image-15.png)
+## Tajemnica Wielkiego Koloseum: _Potężne wyzwanie_
+**Opis:**
+_Lotris, przywódca ekspedycji Wodnego Kręgu, poprosił mnie o zbadanie wielkiego koloseum na północnym wchodzie. Zwiadowcy twierdzą, że miejsce to skrywa jakąś mroczną tajemnicę._
+
+**Zleceniodawca:**
+Lotris
+
+**Cel misji:**
+- Zabij Władca Koloseum (Solo lub G): 50
+
+**Nagroda:**
+- 250 000 000 sztuk złota
+- 750 000 000 doświadczenia
+
+## Tajemnica Wielkiego Koloseum: _Potężne wyzwanie_
+**Opis:**
+_Lotris, przywódca ekspedycji Wodnego Kręgu, poprosił mnie o zbadanie wielkiego koloseum na północnym wchodzie. Zwiadowcy twierdzą, że miejsce to skrywa jakąś mroczną tajemnicę._
+
+**Zleceniodawca:**
+Lotris
+
+**Cel misji:**
+- Zabij Władca Koloseum (Solo lub G): 100
+- Zabij Młody Troll: 300
+
+**Nagroda:**
+- 250 000 000 sztuk złota
+- 900 000 000 doświadczenia
 
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
 **Opis:**
