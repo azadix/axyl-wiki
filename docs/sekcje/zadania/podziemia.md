@@ -649,14 +649,13 @@ Fane
 - Silny na Ludzi: 8
 - Silny na Potwory: 8
 
-
-TODO quest na ulepszenie energii (wymaga posiadania wyzlobionego naszyjnika):
 ## Dziwny Naszyjnik: _Dostarcz przedmioty_
 **Opis:**
 _Seraphius potrzebuje pyłu i proszku... Ciekawe jak mu to pomoże._
 
 **Zleceniodawca:**
 Seraphius
+> Otrzymanie misji wymaga posiadania przedmiotu `Wyżłobiony Naszyjnik`
 
 **Cel misji:**
 - Dostarcz Antyczny Proszek: 125
@@ -739,15 +738,111 @@ Automat
 **Nagroda:**
 - BRAK
 
-7: ![alt text](image-8.png)
-8: ![alt text](image-9.png)
-9: ![alt text](image-10.png)
-10: ![alt text](image-11.png)
-11:![alt text](image-12.png)
-12:![alt text](image-13.png)
-13: ![alt text](image-14.png)
+## Dziwny Naszyjnik: _Salarez i Emblemat_
+**Opis:**
+_Mam emblemat Adanosa. Huh. Nie sądziłem, że kiedykolwiek będę bawił się w takie rzeczy. Pora sprawdzić jak wygląda sprawa z moim amuletem. Ale wpierw, złożę wizytę magom ognia na Valendor._
 
+**Zleceniodawca:**
+Automat
 
+**Cel misji:**
+- Porozmawiaj z Salarez
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _Datek dla wiernych_
+**Opis:**
+_By otrzymać emblemat Innosa, muszę dostarczyć datek. Skoro nie mam innego wyjścia..._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Dostarcz Ogromna Torba Pełna Monet: 50
+- Porozmawiaj z Salarez
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _Nekromanta!_
+**Opis:**
+_Cholera, właśnie byłem świadkiem jak Inns przelał część swojej mocy do czegoś co noszę przy sobie. Czuje się dziwnie... Tymbardziej, że teraz czeka mnie wizyta u nekromanty. Kreol..._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Creol
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _Jo nie chcioł_
+**Opis:**
+_Przeklęty nekromanta! Najchętniej załatwiłbym go tam gdzie stoi. Niestety, ale jest mi potrzebny. Nie pozostaje mi nic innego niżeli zapolować na nieumarłych._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Dostarcz Kość: 250
+- Dostarcz Czaszka: 250
+- Dostarcz Ostrze: 250
+- Dostarcz Czaszka Generała: 100
+- Dostarcz Pradawna Księga: 100
+- Dostarcz Szara Materia: 1000
+- Dostarcz Kamień Wiedzy (60 minut): 666
+- Dostarcz Kamienie Wskrzeszenia: 2000
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _Amulet?_
+**Opis:**
+_Przyjemniaczek... Dobra. Mam wszystkie trzy emblematy. Pora wrócić do Larsona i spytać co z moim amuletem._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Larson
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _Rozmowa z Seraphiusem_
+**Opis:**
+_Mam wszystko czego potrzebowałem, pora wracać do Seraphiusa._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Porozmawiaj z Seraphius
+
+**Nagroda:**
+- BRAK
+
+## Dziwny Naszyjnik: _Zaklęty Amulet_
+**Opis:**
+_Mam wszystko czego potrzebowałem, pora wracać do Seraphiusa._
+
+**Zleceniodawca:**
+Automat
+
+**Cel misji:**
+- Dostarcz Wyżłobiony Naszyjnik:1
+- Dostarcz Legendarny Odłamek: 150
+- Dostarcz Pajęczy Klejnot: 50
+- Dostarcz Ostrze Herszta: 50
+- Dostarcz Mistrz. Starożytna Energia: 1
+- Porozmawiaj z Seraphius
+
+**Nagroda:**
+- Zaklęta Energia w Amulecie
+- Rzadki Artefakt Tytana
+- Sakralna Gwiazda
 
 ## Zły Znak: _Dostarcz przedmioty dla Seraphiusa_
 **Opis:**
