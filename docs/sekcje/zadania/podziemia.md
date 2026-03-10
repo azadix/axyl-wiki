@@ -150,7 +150,7 @@ Amir
 
 ## Podziemne polowanie - Pająki: _Zgładź Pająki_
 **Opis:**
-_Teren i Wolf zgotowali pajęczaką niezłe kongo, teraz pora abym i ja się wykazał._
+_Teren i Wolf zgotowali pajęczakom niezłe kongo, teraz pora abym i ja się wykazał._
 
 **Zleceniodawca:**
 Wolf
@@ -621,34 +621,6 @@ Wolf
 **Nagroda:**
 - Odporność: 3%
 
-## Badacz - Pajęcze Sieci: _Pajęcza Sieć_
-**Opis:**
-_Badacz kazał przynieść mi 100 Klejnotów Wszechmocy._
-
-**Zleceniodawca:**
-Seraphius
-
-**Cel misji:**
-- Dostarcz Klejnot Wszechmocy: 100
-
-**Nagroda:**
-- Punkty Życia: 10 000
-- Dominacja: 3
-
-## Badacz - Wyprawiony Łowca: _Wyprawiony Łowca_
-**Opis:**
-_Badacz Fane prosił mnie, aby przynieść mu trofea z dzikich bestii przy koloseum. Fane zapakuje sobie trofea na miejscu._
-
-**Zleceniodawca:**
-Fane
-
-**Cel misji:**
-- Dostarcz Paczka z trofeami I: 50
-
-**Nagroda:**
-- Silny na Ludzi: 8
-- Silny na Potwory: 8
-
 ## Dziwny Naszyjnik: _Dostarcz przedmioty_
 **Opis:**
 _Seraphius potrzebuje pyłu i proszku... Ciekawe jak mu to pomoże._
@@ -767,7 +739,7 @@ Automat
 
 ## Dziwny Naszyjnik: _Nekromanta!_
 **Opis:**
-_Cholera, właśnie byłem świadkiem jak Inns przelał część swojej mocy do czegoś co noszę przy sobie. Czuje się dziwnie... Tymbardziej, że teraz czeka mnie wizyta u nekromanty. Kreol..._
+_Cholera, właśnie byłem świadkiem jak Inns przelał część swojej mocy do czegoś co noszę przy sobie. Czuje się dziwnie... Tymbardziej, że teraz czeka mnie wizyta u nekromanty. Creol..._
 
 **Zleceniodawca:**
 Automat
@@ -1130,7 +1102,7 @@ Amir
 
 ## Rzadkie Trofea z Podziemi - Epilog: _Starożytne Przedmioty_
 **Opis:**
-_Amir chce, abym znalazł coś co pokryje część, którą musi oddać dla swojego kapitana. Taka piracka tradycja. Hmm... Tylko co takiego? Myślę, że nim opuścimy podziemia, zdołam znaleźć rzecz, która go zadowoli. Dostarcz Amirowy 15 Odłamek Jedności, 30 Pradawny Klejnot, Pozłacane Trofeum_
+_Amir chce, abym znalazł coś co pokryje część, którą musi oddać dla swojego kapitana. Taka piracka tradycja. Hmm... Tylko co takiego? Myślę, że nim opuścimy podziemia, zdołam znaleźć rzecz, która go zadowoli._
 
 **Zleceniodawca:**
 Amir
@@ -1158,9 +1130,9 @@ Martwy Posłaniec
 - 1 000 000 sztuk złota
 - 2 500 000 doświadczenia
 
-## Ekspedycja: _Rozeznanie_
+## Ekspedycja!: _Rozeznanie_
 **Opis:**
-_Magnus poprosił mnie, abym udał się do obozu Lotrisa i dostarczył mu paczkę od magów wody. Grupa Lotrisa znajduje się gedzieś na opuszczonych terenach, podobno rozbili tam swój obóz. (Porozmawiaj z ruth)_
+_Magnus poprosił mnie, abym udał się do obozu Lotrisa i dostarczył mu paczkę od magów wody. Grupa Lotrisa znajduje się gedzieś na opuszczonych terenach, podobno rozbili tam swój obóz._
 
 **Zleceniodawca:**
 Magnus (Wymaga ukończenia misji [Okrutny los](#okrutny-los-raport))
@@ -1172,7 +1144,7 @@ Magnus (Wymaga ukończenia misji [Okrutny los](#okrutny-los-raport))
 - 1 000 000 sztuk złota
 - 2 500 000 doświadczenia
 
-## Ekspedycja: _Rozeznanie_
+## Ekspedycja!: _Rozeznanie_
 **Opis:**
 _Hmm... Ci ludzie wydają się nie być zbytnio ufni. Tak czy siak - muszę znaleźć Lotrisa, strażnik przy wejściu powiedział mi, że znajdę go w środku obozu, tuż przy ognisku._
 
@@ -1840,7 +1812,7 @@ Carlos
 **Nagroda:**
 - BRAK
 
-## Trudny wybór: _Raport_
+## Trudny wybór: _Decyzja_
 **Opis:**
 _Decyzja należy do mnie... Ehh, niech mają._
 
@@ -2263,6 +2235,20 @@ Sara
 
 # Poziom 85
 
+## Badacz - Klejnoty Wszechmocy: _Klejnot Wszechmocy_
+**Opis:**
+_Badacz kazał przynieść mi 100 Klejnotów Wszechmocy._
+
+**Zleceniodawca:**
+Seraphius
+
+**Cel misji:**
+- Dostarcz Klejnot Wszechmocy: 100
+
+**Nagroda:**
+- Punkty Życia: 10 000
+- Dominacja: 3
+
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
 **Opis:**
 _Cedric nie wygląda najlepiej. Stracił swój pierścień, a wzamian zaproponowałem mu swój. Ehh... Chyba jestem czasami zbyt dobry._
@@ -2326,7 +2312,7 @@ Lotris
 
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
 **Opis:**
-_W końcu znalazłem kogoś, kto wie jak wytworzyć lepszy pancerz... Dziwny facet ale cóż miłości się nie wybiera. Przejde się do najbliższej karczmy, ale najpierw zorganizuje dla alkohol._
+_W końcu znalazłem kogoś, kto wie jak wytworzyć lepszy pancerz... Dziwny facet ale cóż miłości się nie wybiera. Przejde się do najbliższej karczmy, ale najpierw zorganizuje dla niego alkohol._
 
 **Zleceniodawca:**
 Nieznajomy
@@ -2341,6 +2327,20 @@ Nieznajomy
 - Możliwość ulepszenia "Zbroji Pradawnych +9" do "Ciężki Pancerza Nordmarczyka St. 1"
 
 # Poziom 86
+
+## Badacz - Wyprawiony Łowca: _Wyprawiony Łowca_
+**Opis:**
+_Badacz Fane prosił mnie, aby przynieść mu trofea z dzikich bestii przy koloseum. Fane zapakuje sobie trofea na miejscu._
+
+**Zleceniodawca:**
+Fane
+
+**Cel misji:**
+- Dostarcz Paczka z trofeami I: 50
+
+**Nagroda:**
+- Silny na Ludzi: 8
+- Silny na Potwory: 8
 
 ## Papirusy Skryby: _Złote Papirusy_
 **Opis:**
