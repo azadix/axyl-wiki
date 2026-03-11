@@ -2310,6 +2310,23 @@ Lotris
 - 250 000 000 sztuk złota
 - 900 000 000 doświadczenia
 
+## Tajemnica Wielkiego Koloseum: _Potężne wyzwanie_
+**Opis:**
+_Udało mi się uporać z tą sprawą... Ciekawe kto wpadł na pomysł z tymi trollami..._
+
+**Zleceniodawca:**
+Lotris
+
+**Cel misji:**
+- Porozmawiaj z Lotris
+
+**Nagroda:**
+- 250 000 000 sztuk złota
+- 1 500 000 000 doświadczenia
+- Silny na piekielnych: 2
+- 50 Przetopiony Fragment Biżuterii
+- Ekskluzywna Skrzynia
+
 ## Wielkie Poświęcenie: _Dostarcz pierścień dla Cedrica_
 **Opis:**
 _W końcu znalazłem kogoś, kto wie jak wytworzyć lepszy pancerz... Dziwny facet ale cóż miłości się nie wybiera. Przejde się do najbliższej karczmy, ale najpierw zorganizuje dla niego alkohol._
